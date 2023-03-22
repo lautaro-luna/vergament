@@ -1,0 +1,67 @@
+body{
+    background-color:antiquewhite;
+    animation: rave 0.9s infinite;
+}
+
+@keyframes rave {
+  0% {
+    background-color: #FF0000; /* red */
+  }
+  25% {
+    background-color: #00FF00; /* green */
+  }
+  50% {
+    background-color: #0000FF; /* blue */
+  }
+  75% {
+    background-color: #FFFF00; /* yellow */
+  }
+  100% {
+    background-color: #FF00FF; /* magenta */
+  }
+}
+
+h1{
+    font-family: "Impact", sans-serif;
+    text-transform: uppercase;
+    font-size: 3em;
+    color: white;
+    text-shadow: 1px 1px 1px black;
+    letter-spacing: 2px;
+    line-height: 1.2;
+    text-align: center;
+}
+
+div.futuro{
+    text-align: center;
+    font-size: 2em;
+    color:darkred;
+    text-shadow: 1px 1px 0px black;
+}
+
+div.lolment {
+    color:rgb(173, 255, 67);
+    font-family: Arial, sans-serif;
+    font-size: 2em;
+    position: absolute;
+    top: 465px;
+    left: 80px;
+  }
+  
+.cirno{
+    position: absolute;
+    top: 50px;
+    left: 100px;
+}
+
+.home{
+    position: absolute;
+    top: 530px;
+    left: 600px;
+}
+
+.construction{
+    position: absolute;
+    top: 580px;
+    left: 380px;
+}

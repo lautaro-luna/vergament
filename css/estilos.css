@@ -1,0 +1,56 @@
+body{
+    background-color:blanchedalmond;
+}
+
+h1 {
+    text-align: center;
+    color:darkred;
+}
+
+img{
+    text-align: center;
+    display: block;
+}
+
+p {
+    color:firebrick;
+}
+
+div.reimuBanner{
+    position: absolute;
+    top: 550px;
+    left: 550px;
+}
+.tuboBanner{
+    position: absolute;
+    top: 550px;
+    left: 650px;
+}
+.papiroBanner{
+    position: absolute;
+    top: 550px;
+    left: 750px;
+}
+
+
+ul{
+    color:forestgreen;
+}
+
+.nextButton{
+    position: absolute;
+    top: 550px;
+    left: 150px;
+}
+
+.explorerBanner{
+    position: absolute;
+    top: 550px;
+    left: 850px;
+}
+
+.poweredBanner{
+    position: absolute;
+    top: 540px;
+    left: 450px;
+}
